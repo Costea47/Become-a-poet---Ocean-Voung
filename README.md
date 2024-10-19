@@ -22,7 +22,7 @@ This game is developed as part of an internship project, with the goal of creati
 
 ## Live Link:
 
-[https://your-website-link.com](https://your-website-link.com)
+[https://costea47.github.io/Become-a-poet---Ocean-Voung/](https://costea47.github.io/Become-a-poet---Ocean-Voung/)
 
 ## Live on RosebudAI
 
@@ -45,3 +45,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Special thanks to the **Rosebud AI** team for their support and resources.
 - Inspired by the life and poetic legacy of **Ocean Vuong**, whose work continues to touch lives worldwide.
+
+## Credits
+
+This game was created by Ezinne, an intern on A4R, as part of an internship project.
+https://github.com/ejo003
